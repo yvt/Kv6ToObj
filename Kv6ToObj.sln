@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{4925A630-B079-445d-BCD4-3A9C94FE9307}") = "Kv6ToObj", "Kv6ToObj\Kv6ToObj.fsproj", "{F1A6F886-9314-48BD-8F34-962425EE55DE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F1A6F886-9314-48BD-8F34-962425EE55DE}.Debug|x86.ActiveCfg = Debug|x86
+		{F1A6F886-9314-48BD-8F34-962425EE55DE}.Debug|x86.Build.0 = Debug|x86
+		{F1A6F886-9314-48BD-8F34-962425EE55DE}.Release|x86.ActiveCfg = Release|x86
+		{F1A6F886-9314-48BD-8F34-962425EE55DE}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Kv6ToObj\Kv6ToObj.fsproj
+	EndGlobalSection
+EndGlobal
